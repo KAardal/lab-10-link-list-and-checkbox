@@ -17,8 +17,13 @@ Big O: O(n)
 Takes a node as a parameter and removes it from the list.
 
 #### forEach()
-Big 0: 
+Big O: O(n)
+Takes a callback function as parameter and applies the callback to each node in the list.
 
 #### findMiddle()
+Big O: O(n)
+Finds and returns the middle node in the list.
 
 #### reverse()
+Big O: O(n)
+Reverses the order of the list.
